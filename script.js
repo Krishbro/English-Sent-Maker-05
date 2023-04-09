@@ -7,7 +7,7 @@ const sentences = [
   { english: 'She decided to call police.', sinhala: '06. ඇය පොලිසියට කතා කරන්න තීරනය කලා.' },
   { english: 'Actually, I love my job.', sinhala: '07. ඇත්තටම මම මගේ රැකියාවට ආදරෙයි.' },
   { english: 'The principle admired his talent.', sinhala: '08. විදුහල්පතිතුමා ඇගේ දක්ශතා අගය කලා.' },
-  { english: 'Actually,I feel bad for kamal.', sinhala: '09. ඇත්තටම මට කමල් ගැන දුකකයි.' },
+  { english: 'Actually, I feel bad for kamal.', sinhala: '09. ඇත්තටම මට කමල් ගැන දුකකයි.' },
   { english: 'I accused him of cheating.', sinhala: '10. මම ඔහුට වංචා කළ බවට චෝදනා කළා.' }
 ];
 
